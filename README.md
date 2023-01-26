@@ -6,7 +6,7 @@ Aplicación de Google Maps usando AngularJS, Leaflet.js y Laravel Framework.
     https://getcomposer.org/download/
 
 2. Clonar este proyecto en el equipo.
-$ git clone https://github.com/dragon306/angular-laravel-leaflet.git mapApp
+$ git clone https://github.com/yiramarcela/laravel-angular-googlemaps.git mapApp
 
 
 3. Crear una base de datos llamada "laravel" y crear una tabla llamada "users" usando phpMyAdmin.
